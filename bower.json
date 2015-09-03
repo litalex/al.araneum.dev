@@ -1,0 +1,16 @@
+{
+  "name": "araneum.dev",
+  "version": "0.0.1",
+  "authors": [
+    "alexandrl"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "web/assets/vendor/",
+    "test",
+    "tests"
+  ]
+}
